@@ -10,5 +10,5 @@ gem "pry"
 end
 
 group :testing do
-gem "rspec"
+  gem "rspec"
 end
